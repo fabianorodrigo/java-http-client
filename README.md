@@ -3,7 +3,7 @@ Um cliente HTTP simples destinado apenas a testes
 
 ## Configuração
 
-Confirme que o path da JDk está correta no arquivo `.vscode/settings.json`.
+Confirme que o path da JDK está correta no arquivo `.vscode/settings.json`.
 
 
 ## Execução
